@@ -2,7 +2,7 @@
 # Clipboard Sync Server
 
 Clipboard Sync Server is an application that allows you to synchronize your clipboard between your computer and mobile devices.
-To use we also need an app for android phone [ClipboardSyncApp](https://github.com/TwojeKonto/ClipboardSyncApp).
+To use we also need an app for android phone [ClipboardSyncApp](https://github.com/AdamJou/ClipboardSyncApp).
 
 ## Features
 
